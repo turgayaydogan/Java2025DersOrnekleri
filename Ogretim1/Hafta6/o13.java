@@ -59,5 +59,17 @@ public class o13 {
                 System.out.println(ogrenciBilgileri[i][4]);
 
         }
+        System.out.println("*********************");
+        //ortalaması 1.8 den büyük olan öğrencilerin vize ve final notuna göre ortalamasını hesapla
+        for (int i = 0; i < ogrenciBilgileri.length; i++) {
+            double gno=Double.parseDouble(ogrenciBilgileri[i][4]);
+            if(gno>1.8){
+                //sıradaki öğrencinin vizesi = ogrenciBilgileri[i][5]
+                //sıradaki öğrencinin finali = ogrenciBilgileri[i][6]
+                double ort = Double.parseDouble(ogrenciBilgileri[i][5])*0.4+Double.parseDouble(ogrenciBilgileri[i][6])*0.6;
+                System.out.println((i+1)+".Öğrenci Ortalama = "+ ort);
+            }
+
+        }
     }
 }
