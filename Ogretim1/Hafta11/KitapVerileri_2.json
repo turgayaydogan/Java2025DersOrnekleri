@@ -1,0 +1,1814 @@
+{
+    "numFound": 267,
+    "start": 0,
+    "numFoundExact": true,
+    "num_found": 267,
+    "documentation_url": "https://openlibrary.org/dev/docs/api/search",
+    "q": "",
+    "offset": null,
+    "docs": [
+        {
+            "author_key": [
+                "OL2919869A"
+            ],
+            "author_name": [
+                "Yasar Kemal"
+            ],
+            "cover_edition_key": "OL46538938M",
+            "cover_i": 13258203,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2020,
+            "has_fulltext": false,
+            "key": "/works/OL34319007W",
+            "language": [
+                "tur"
+            ],
+            "public_scan_b": false,
+            "title": "Tanyeri Horozlar\u0131"
+        },
+        {
+            "author_key": [
+                "OL2919869A"
+            ],
+            "author_name": [
+                "Yasar Kemal"
+            ],
+            "cover_edition_key": "OL46538939M",
+            "cover_i": 13258204,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2020,
+            "has_fulltext": false,
+            "key": "/works/OL34319008W",
+            "language": [
+                "tur"
+            ],
+            "public_scan_b": false,
+            "title": "\u00c7\u0131plak Deniz \u00c7\u0131plak Ada"
+        },
+        {
+            "author_key": [
+                "OL7989712A"
+            ],
+            "author_name": [
+                "Ya\u015far Kemal"
+            ],
+            "cover_edition_key": "OL35576531M",
+            "cover_i": 12296816,
+            "ebook_access": "borrowable",
+            "edition_count": 1,
+            "first_publish_year": 2017,
+            "has_fulltext": true,
+            "ia": [
+                "fratsuyukanakyor0000yasa"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "key": "/works/OL26346912W",
+            "lending_edition_s": "OL35576531M",
+            "lending_identifier_s": "fratsuyukanakyor0000yasa",
+            "public_scan_b": false,
+            "title": "F\u0131rat Suyu Kan Ak\u0131yor Baksana"
+        },
+        {
+            "author_key": [
+                "OL7989712A"
+            ],
+            "author_name": [
+                "Ya\u015far Kemal"
+            ],
+            "cover_edition_key": "OL35576548M",
+            "cover_i": 12296817,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2017,
+            "has_fulltext": false,
+            "key": "/works/OL26346926W",
+            "public_scan_b": false,
+            "title": "Ortadirek"
+        },
+        {
+            "author_key": [
+                "OL7989712A"
+            ],
+            "author_name": [
+                "Ya\u015far Kemal"
+            ],
+            "cover_edition_key": "OL35576559M",
+            "cover_i": 12296818,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2017,
+            "has_fulltext": false,
+            "key": "/works/OL26346936W",
+            "language": [
+                "tur"
+            ],
+            "public_scan_b": false,
+            "title": "Kar\u0131ncan\u0131n Su \u0130\u00e7ti\u011fi"
+        },
+        {
+            "author_key": [
+                "OL7989712A"
+            ],
+            "author_name": [
+                "Ya\u015far Kemal"
+            ],
+            "cover_edition_key": "OL35576627M",
+            "cover_i": 12296827,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2017,
+            "has_fulltext": false,
+            "key": "/works/OL26346990W",
+            "public_scan_b": false,
+            "title": "B\u0130R BULUT KAYNIYOR"
+        },
+        {
+            "author_key": [
+                "OL2919869A"
+            ],
+            "author_name": [
+                "Yasar Kemal"
+            ],
+            "cover_edition_key": "OL35576666M",
+            "cover_i": 12296832,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2017,
+            "has_fulltext": false,
+            "key": "/works/OL26347020W",
+            "public_scan_b": false,
+            "title": "Baldaki Tuz"
+        },
+        {
+            "author_key": [
+                "OL2919869A",
+                "OL12646447A",
+                "OL12646448A",
+                "OL12646449A",
+                "OL12646450A"
+            ],
+            "author_name": [
+                "Yasar Kemal",
+                "\u00c7agla Soykan",
+                "Irfan G\u00fcler",
+                "Mar\u00eda Xos\u00e9 Baamonde",
+                "Fernando Garc\u00eda Burillo"
+            ],
+            "cover_edition_key": "OL47356474M",
+            "cover_i": 13948525,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2017,
+            "has_fulltext": false,
+            "key": "/works/OL34992465W",
+            "public_scan_b": false,
+            "title": "La primavera ha venido"
+        },
+        {
+            "author_key": [
+                "OL7989712A"
+            ],
+            "author_name": [
+                "Ya\u015far Kemal"
+            ],
+            "cover_edition_key": "OL32200002M",
+            "cover_i": 10849218,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2017,
+            "has_fulltext": false,
+            "key": "/works/OL24328547W",
+            "public_scan_b": false,
+            "title": "H\u00fcy\u00fckteki Nar A\u011fac\u0131"
+        },
+        {
+            "author_key": [
+                "OL7989712A"
+            ],
+            "author_name": [
+                "Ya\u015far Kemal"
+            ],
+            "cover_edition_key": "OL35432227M",
+            "cover_i": 12273687,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2017,
+            "has_fulltext": false,
+            "key": "/works/OL26271541W",
+            "public_scan_b": false,
+            "title": "Demirciler \u00c7ar\u015f\u0131s\u0131 Cinayeti"
+        },
+        {
+            "author_key": [
+                "OL2919869A"
+            ],
+            "author_name": [
+                "Yasar Kemal"
+            ],
+            "cover_edition_key": "OL35440876M",
+            "cover_i": 12282029,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2017,
+            "has_fulltext": false,
+            "key": "/works/OL26279490W",
+            "public_scan_b": false,
+            "title": "Yuzler"
+        },
+        {
+            "author_key": [
+                "OL7989712A"
+            ],
+            "author_name": [
+                "Ya\u015far Kemal"
+            ],
+            "cover_edition_key": "OL35576592M",
+            "cover_i": 12296821,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2016,
+            "has_fulltext": false,
+            "key": "/works/OL26346960W",
+            "public_scan_b": false,
+            "title": "\u0130nce Memed 2"
+        },
+        {
+            "author_key": [
+                "OL14114A"
+            ],
+            "author_name": [
+                "Ya\u015far Kemal"
+            ],
+            "cover_edition_key": "OL28571349M",
+            "cover_i": 13103244,
+            "ebook_access": "printdisabled",
+            "edition_count": 2,
+            "first_publish_year": 2016,
+            "has_fulltext": true,
+            "ia": [
+                "theyburnthistles0000yasa"
+            ],
+            "ia_collection_s": "internetarchivebooks;printdisabled",
+            "key": "/works/OL21107196W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "They Burn Thistles"
+        },
+        {
+            "author_key": [
+                "OL7989712A"
+            ],
+            "author_name": [
+                "Ya\u015far Kemal"
+            ],
+            "cover_edition_key": "OL35581754M",
+            "cover_i": 12297117,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2016,
+            "has_fulltext": false,
+            "key": "/works/OL26349692W",
+            "public_scan_b": false,
+            "title": "Bug\u00fcnlerde Bahar \u0130ndi"
+        },
+        {
+            "author_key": [
+                "OL2919869A"
+            ],
+            "author_name": [
+                "Yasar Kemal"
+            ],
+            "cover_edition_key": "OL35586760M",
+            "cover_i": 12297749,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2016,
+            "has_fulltext": false,
+            "key": "/works/OL26352718W",
+            "public_scan_b": false,
+            "title": "Kalemler"
+        },
+        {
+            "author_key": [
+                "OL2919869A"
+            ],
+            "author_name": [
+                "Yasar Kemal"
+            ],
+            "cover_edition_key": "OL35587874M",
+            "cover_i": 12297864,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2016,
+            "has_fulltext": false,
+            "key": "/works/OL26353516W",
+            "public_scan_b": false,
+            "title": "Beyaz Pantolon"
+        },
+        {
+            "author_key": [
+                "OL7989712A"
+            ],
+            "author_name": [
+                "Ya\u015far Kemal"
+            ],
+            "cover_edition_key": "OL35583786M",
+            "cover_i": 12297357,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2016,
+            "has_fulltext": false,
+            "key": "/works/OL26351097W",
+            "public_scan_b": false,
+            "title": "\u0130nce Memed 1-2-3-4"
+        },
+        {
+            "author_key": [
+                "OL14114A"
+            ],
+            "author_name": [
+                "Ya\u015far Kemal"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 2,
+            "first_publish_year": 2015,
+            "has_fulltext": false,
+            "key": "/works/OL21569190W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "To Crush the Serpent"
+        },
+        {
+            "author_key": [
+                "OL2919869A"
+            ],
+            "author_name": [
+                "Yasar Kemal"
+            ],
+            "cover_edition_key": "OL35432630M",
+            "cover_i": 12274063,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2015,
+            "has_fulltext": false,
+            "key": "/works/OL26271909W",
+            "public_scan_b": false,
+            "title": "Dagin \u00d6te Y\u00fcz\u00fc"
+        },
+        {
+            "author_key": [
+                "OL14114A",
+                "OL8074651A"
+            ],
+            "author_name": [
+                "Ya\u015far Kemal",
+                "Gokceli Yashmar"
+            ],
+            "cover_edition_key": "OL29311722M",
+            "cover_i": 14854577,
+            "ebook_access": "no_ebook",
+            "edition_count": 2,
+            "first_publish_year": 2015,
+            "has_fulltext": false,
+            "key": "/works/OL21099707W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Sea Crossed Fisherman"
+        },
+        {
+            "author_key": [
+                "OL8070718A",
+                "OL14114A"
+            ],
+            "author_name": [
+                "Yashar Kemal Gokceli",
+                "Ya\u015far Kemal"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2014,
+            "has_fulltext": false,
+            "key": "/works/OL21092582W",
+            "language": [
+                "eng"
+            ],
+            "public_scan_b": false,
+            "title": "Salman the Solitary"
+        },
+        {
+            "author_key": [
+                "OL2919869A"
+            ],
+            "author_name": [
+                "Yasar Kemal"
+            ],
+            "cover_edition_key": "OL35432579M",
+            "cover_i": 12274012,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2014,
+            "has_fulltext": false,
+            "key": "/works/OL26271861W",
+            "public_scan_b": false,
+            "title": "Yagmurla Gelen"
+        },
+        {
+            "author_key": [
+                "OL2919869A"
+            ],
+            "author_name": [
+                "Yasar Kemal"
+            ],
+            "cover_edition_key": "OL35584672M",
+            "cover_i": 12297490,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2014,
+            "has_fulltext": false,
+            "key": "/works/OL26351611W",
+            "public_scan_b": false,
+            "title": "Neredesin Arkadasim"
+        },
+        {
+            "author_key": [
+                "OL6831462A",
+                "OL2919869A"
+            ],
+            "author_name": [
+                "Filiz \u00d6zdem",
+                "Yasar Kemal"
+            ],
+            "cover_edition_key": "OL35585197M",
+            "cover_i": 12297560,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2014,
+            "has_fulltext": false,
+            "key": "/works/OL26351996W",
+            "public_scan_b": false,
+            "title": "Sevmek, Sevinmek, Iyi Seyler \u00dcst\u00fcne"
+        },
+        {
+            "author_key": [
+                "OL2919869A"
+            ],
+            "author_name": [
+                "Yasar Kemal"
+            ],
+            "cover_edition_key": "OL35576663M",
+            "cover_i": 12296831,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2013,
+            "has_fulltext": false,
+            "key": "/works/OL26347017W",
+            "public_scan_b": false,
+            "title": "Zulmun Artsin"
+        },
+        {
+            "author_key": [
+                "OL2919869A"
+            ],
+            "author_name": [
+                "Yasar Kemal"
+            ],
+            "cover_edition_key": "OL35576669M",
+            "cover_i": 12296833,
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2013,
+            "has_fulltext": false,
+            "key": "/works/OL26347023W",
+            "public_scan_b": false,
+            "title": "Gokyuzu Mavi Kaldi"
+        },
+        {
+            "author_key": [
+                "OL14114A"
+            ],
+            "author_name": [
+                "Ya\u015far Kemal"
+            ],
+            "ebook_access": "no_ebook",
+            "edition_count": 1,
+            "first_publish_year": 2013,
+            "has_fulltext": false,
+            "key": "/works/OL23273752W",
+            "language": [
+                "tur"
+            ],
+            "public_scan_b": false,
+            "title": "\u00c7ocuklar insand\u0131r"
+        },
+        {
+            "author_key": [
+                "OL14114A"
+            ],
+            "author_name": [                "Ya\u015far 
+Kemal"            ],            "ebook_access": "no_ebook",            "edition_count": 1,            "first_publish_year": 2013,            "has_fulltext": false,            "key": "/works/OL23350598W",            "language": [                "tur"            ],            "public_scan_b": false,    "title": "Tek kanatl\u0131 bir ku\u015f"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2012,
+                "has_fulltext": false,
+                "key": "/works/OL23194108W",
+                "language": [
+                    "tur"
+                ],
+                "public_scan_b": false,
+                "title": "Bu bir \u00e7a\u011fr\u0131d\u0131r"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL32200489M",
+                "cover_i": 10849661,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2012,
+                "has_fulltext": false,
+                "key": "/works/OL24328939W",
+                "public_scan_b": false,
+                "title": "Bir Ada Hikayesi 4 - Ciplak Deniz Ciplak Ada"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "cover_edition_key": "OL31249810M",
+                "cover_i": 13175908,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2012,
+                "has_fulltext": false,
+                "key": "/works/OL23394113W",
+                "language": [
+                    "tur"
+                ],
+                "public_scan_b": false,
+                "title": "Ya\u015far Kemal, s\u00f6z\u00fcn b\u00fcy\u00fcc\u00fcs\u00fc"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [                "Yasar 
+Kemal"            ],            "cover_edition_key": "OL35576631M",            "cover_i": 12296828,            "ebook_access": "no_ebook",            "edition_count": 1,            "first_publish_year": 2011,            "has_fulltext": false,            "key": "/works/OL26346992W",            "public_scan_b": false,            "title": "Yasar Kemal Kendini Anlatiyor - Alain Bosquet ile Gorusmeler"        },        {            "author_key": [       "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL32199980M",
+                "cover_i": 10849196,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2011,
+                "has_fulltext": false,
+                "key": "/works/OL24328527W",
+                "public_scan_b": false,
+                "title": "Yusufcuk Yusuf-Akcasazin Agalari 2"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2011,
+                "has_fulltext": false,
+                "key": "/works/OL23239934W",
+                "language": [
+                    "tur"
+                ],
+                "public_scan_b": false,
+                "title": "R\u00f6portaj yazarl\u0131\u011f\u0131nda 60 y\u0131l"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL35576585M",
+                "cover_i": 12296819,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2010,
+                "has_fulltext": false,
+                "key": "/works/OL26346955W",
+                "public_scan_b": false,
+                "title": "Yanan Ormanlarda Elli G\u00fcn"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2010,
+                "has_fulltext": false,
+                "key": "/works/OL22609605W",
+                "language": [
+                    "tur"
+                ],
+                "public_scan_b": false,
+                "title": "Bug\u00fcnlerde 
+bahar indi"        },        {            "author_key": [                "OL14114A"            ],            "author_name": [                "Ya\u015far Kemal"            ],            "ebook_access": "no_ebook",            "edition_count": 1,            "first_publish_year": 2010,            "has_fulltext": false,            "key": "/works/OL33326744W",            "language": [                "heb"            ],            "public_scan_b": false,  "title": "Memad ha-razeh"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2010,
+                "has_fulltext": false,
+                "key": "/works/OL16634943W",
+                "language": [
+                    "tur"
+                ],
+                "public_scan_b": false,
+                "title": "Yolda"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL35576656M",
+                "cover_i": 12296829,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2009,
+                "has_fulltext": false,
+                "key": "/works/OL26347012W",
+                "public_scan_b": false,
+                "title": "Olmez Otu - Dagin Oteki Yuzu - 3"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2009,
+                "has_fulltext": false,
+                "key": "/works/OL23348161W",
+                "language": [
+                    "tur"
+                ],
+                "public_scan_b": false,
+                "title": "Binbir \u00e7i\u00e7ekli bah\u00e7e"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL28130793M",
+                "cover_i": 10031299,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2008,
+                "has_fulltext": false,
+                "key": "/works/OL20784315W",
+                "public_scan_b": false,
+                "title": "Der Sturm der Gazellen"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2007,
+                "has_fulltext": false,
+                "key": "/works/OL35587050W",
+                "language": [
+                    "tur"
+                ],
+                "public_scan_b": false,
+                "title": "\u00c7ukurova"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL35454369M",
+                "cover_i": 12292323,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2007,
+                "has_fulltext": false,
+                "key": "/works/OL26292100W",
+                "public_scan_b": false,
+                "title": "Pis Hikaye"
+            },
+            {
+                "author_key": [
+                    "OL7989712A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "cover_edition_key": "OL35576522M",
+                "cover_i": 12296814,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2006,
+                "has_fulltext": false,
+                "key": "/works/OL26346905W",
+                "public_scan_b": false,
+                "title": "\u0130nce Memed 4"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL35576526M",
+                "cover_i": 12296815,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2006,
+                "has_fulltext": false,
+                "key": "/works/OL26346908W",
+                "public_scan_b": false,
+                "title": "Binbogalar Efsanesi"
+            },
+            {
+                "author_key": [
+                    "OL7989712A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "cover_edition_key": "OL32199613M",
+                "cover_i": 10848829,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2006,
+                "has_fulltext": false,
+                "key": "/works/OL24328190W",
+                "public_scan_b": false,
+                "title": "Ince Memed 3"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2005,
+                "has_fulltext": false,
+                "key": "/works/OL39028516W",
+                "language": [
+                    "aze"
+                ],
+                "public_scan_b": false,
+                "title": "Kuro\u011flu'nun mi'ydana \u00e7\u0131k\u0131\u015f\u0131"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL32088765M",
+                "cover_i": 10743180,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2005,
+                "has_fulltext": false,
+                "key": "/works/OL24257144W",
+                "public_scan_b": false,
+                "title": "Agacin Curugu"
+            },
+            {
+                "author_key": [
+                    "OL7989712A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "cover_edition_key": "OL35576510M",
+                "cover_i": 12296811,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2004,
+                "has_fulltext": false,
+                "key": "/works/OL26346895W",
+                "public_scan_b": false,
+                "title": "Filler Sultan\u0131 ile K\u0131rm\u0131z\u0131 Sakall\u0131 Topal Kar\u0131nca"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL35576659M",
+                "cover_i": 12296830,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2004,
+                "has_fulltext": false,
+                "key": "/works/OL26347015W",
+                "public_scan_b": false,
+                "title": "Uc Anadolu Efsanesi"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL32202590M",
+                "cover_i": 10851752,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2004,
+                "has_fulltext": false,
+                "key": "/works/OL24330815W",
+                "public_scan_b": false,
+                "title": "Peri Bacalar\u0131"
+            },
+            {
+                "author_key": [
+                    "OL7989712A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "cover_edition_key": "OL32088614M",
+                "cover_i": 10742997,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2004,
+                "has_fulltext": false,
+                "key": "/works/OL24257011W",
+                "public_scan_b": false,
+                "title": "Agridagi Efsanesi"
+            },
+            {
+                "author_key": [
+                    "OL7989712A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "cover_edition_key": "OL32249380M",
+                "cover_i": 10879486,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2004,
+                "has_fulltext": false,
+                "key": "/works/OL24353887W",
+                "public_scan_b": false,
+                "title": "Yilani Oldurseler"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL26776534M",
+                "cover_i": 8430761,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2004,
+                "has_fulltext": false,
+                "key": "/works/OL19237004W",
+                "public_scan_b": false,
+                "title": "100 Jahre Theater Bielefeld."
+            },
+            {
+                "author_key": [
+                    "OL7989712A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "cover_edition_key": "OL28292353M",
+                "cover_i": 10217552,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2004,
+                "has_fulltext": false,
+                "key": "/works/OL20888327W",
+                "public_scan_b": false,
+                "title": "Ince Memed I."
+            },
+            {
+                "author_key": [
+                    "OL7989712A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "cover_edition_key": "OL35432222M",
+                "cover_i": 12273682,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2004,
+                "has_fulltext": false,
+                "key": "/works/OL26271536W",
+                "public_scan_b": false,
+                "title": "Kuslar da Gitti."
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL35432223M",
+                "cover_i": 12273683,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2004,
+                "has_fulltext": false,
+                "key": "/works/OL26271537W",
+                "public_scan_b": false,
+                "title": "Ustadir Ari"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL35576588M",
+                "cover_i": 12296820,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2003,
+                "has_fulltext": false,
+                "key": "/works/OL26346958W",
+                "public_scan_b": false,
+                "title": "Deniz Kustu"
+            },
+            {
+                "author_key": [
+                    "OL2919869A",
+                    "OL7998833A"
+                ],
+                "author_name": [
+                    "Yasar Kemal",
+                    "Fernando Rey Escalera"
+                ],
+                "cover_edition_key": "OL47581557M",
+                "cover_i": 14203723,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2003,
+                "has_fulltext": false,
+                "key": "/works/OL35189656W",
+                "public_scan_b": false,
+                "title": "Ararat mendiaren sumina"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2003,
+                "has_fulltext": false,
+                "key": "/works/OL42278774W",
+                "language": [
+                    "per"
+                ],
+                "public_scan_b": false,
+                "title": "\u012anjah Mamad"
+            },
+            {
+                "author_key": [
+                    "OL1547765A"
+                ],
+                "author_name": [
+                    "Uluslararas\u0131 Yas\u0327ar Kemal Sempozyumu (2002 Ankara, Turkey)"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2003,
+                "has_fulltext": false,
+                "key": "/works/OL6087605W",
+                "language": [
+                    "tur"
+                ],
+                "public_scan_b": false,
+                "title": "Gec\u0327mis\u0327ten geleceg\u0306e Yas\u0327ar Kemal"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL32200175M",
+                "cover_i": 10849392,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2003,
+                "has_fulltext": false,
+                "key": "/works/OL24328698W",
+                "public_scan_b": false,
+                "title": "Nuhun Gemisi"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL32200604M",
+                "cover_i": 10849776,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2003,
+                "has_fulltext": false,
+                "key": "/works/OL24329044W",
+                "public_scan_b": false,
+                "title": "Yagmurcuk Kusu - Kimsecik 1"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL32201115M",
+                "cover_i": 10850288,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2003,
+                "has_fulltext": false,
+                "key": "/works/OL24329506W",
+                "public_scan_b": false,
+                "title": "Kale Kapisi - Kimsecik - 2"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2003,
+                "has_fulltext": false,
+                "key": "/works/OL23893974W",
+                "language": [
+                    "tur"
+                ],
+                "public_scan_b": false,
+                "title": "Ya\u015far Kemal'in s\u00f6zlerinde ya\u015famak"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL35432221M",
+                "cover_i": 12273681,
+                "ebook_access": "borrowable",
+                "edition_count": 1,
+                "first_publish_year": 2003,
+                "has_fulltext": true,
+                "ia": [
+                    "tanyerihorozlarb0000yasa"
+                ],
+                "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+                "key": "/works/OL26271535W",
+                "lending_edition_s": "OL35432221M",
+                "lending_identifier_s": "tanyerihorozlarb0000yasa",
+                "public_scan_b": false,
+                "title": "Bir Ada Hikayesi 3 - Tanyeri Horozlari"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL35432224M",
+                "cover_i": 12273684,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2003,
+                "has_fulltext": false,
+                "key": "/works/OL26271538W",
+                "public_scan_b": false,
+                "title": "Sari Sicak"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL32194458M",
+                "cover_i": 10846001,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2003,
+                "has_fulltext": false,
+                "key": "/works/OL24325998W",
+                "public_scan_b": false,
+                "title": "Memed."
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL12681747M",
+                "cover_i": 3178100,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2002,
+                "has_fulltext": false,
+                "key": "/works/OL8656151W",
+                "public_scan_b": false,
+                "title": "Der Granatapfelbaum"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL12859269M",
+                "cover_i": 3242638,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2002,
+                "has_fulltext": false,
+                "key": "/works/OL8656158W",
+                "public_scan_b": false,
+                "title": "Gut geflunkert, Zilo. ( Ab 10. J.)"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2002,
+                "has_fulltext": false,
+                "key": "/works/OL386964W",
+                "language": [
+                    "tur"
+                ],
+                "public_scan_b": false,
+                "title": "Tanyeri horozlari"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL32199940M",
+                "cover_i": 10849156,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2002,
+                "has_fulltext": false,
+                "key": "/works/OL24328494W",
+                "public_scan_b": false,
+                "title": "Yer Demir G\u00f6k Bak\u0131r"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL9024466M",
+                "cover_i": 999411,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2001,
+                "has_fulltext": false,
+                "key": "/works/OL8656152W",
+                "language": [
+                    "ger"
+                ],
+                "public_scan_b": false,
+                "title": "Die Ameiseninsel"
+            },
+            {
+                "author_key": [
+                    "OL2919869A",
+                    "OL12646450A"
+                ],
+                "author_name": [
+                    "Yasar Kemal",
+                    "Fernando Garc\u00eda Burillo"
+                ],
+                "cover_edition_key": "OL47356636M",
+                "cover_i": 13948706,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2001,
+                "has_fulltext": false,
+                "key": "/works/OL34992624W",
+                "public_scan_b": false,
+                "title": "Si aplastaran la serpiente"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL47338130M",
+                "cover_i": 13926508,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2000,
+                "has_fulltext": false,
+                "key": "/works/OL34975490W",
+                "public_scan_b": false,
+                "title": "Esclafar\u00e0s la serp"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL35589054M",
+                "cover_i": 12297988,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 2000,
+                "has_fulltext": false,
+                "key": "/works/OL26354341W",
+                "public_scan_b": false,
+                "title": "Yesil Kertenkele"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 1999,
+                "has_fulltext": false,
+                "key": "/works/OL8656147W",
+                "public_scan_b": false,
+                "title": "Castle Gate"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 1999,
+                "has_fulltext": false,
+                "key": "/works/OL8656153W",
+                "language": [
+                    "tur"
+                ],
+                "public_scan_b": false,
+                "title": "Earth, Iron, Sky, Brass"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL13159835M",
+                "cover_i": 3356529,
+                "ebook_access": "borrowable",
+                "edition_count": 1,
+                "first_publish_year": 1999,
+                "has_fulltext": true,
+                "ia": [
+                    "denizkusturoman0000yasa"
+                ],
+                "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+                "key": "/works/OL8656154W",
+                "language": [
+                    "tur"
+                ],
+                "lending_edition_s": "OL13159835M",
+                "lending_identifier_s": "denizkusturoman0000yasa",
+                "public_scan_b": false,
+                "title": "The Estranged Sea"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL13159832M",
+                "cover_i": 13909936,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 1999,
+                "has_fulltext": false,
+                "key": "/works/OL8656155W",
+                "public_scan_b": false,
+                "title": "Eternal Grass"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL9185337M",
+                "cover_i": 1054453,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 1999,
+                "has_fulltext": false,
+                "key": "/works/OL8656161W",
+                "language": [
+                    "tur"
+                ],
+                "public_scan_b": false,
+                "title": "If They Kill the Sneak"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 1999,
+                "has_fulltext": false,
+                "key": "/works/OL8656166W",
+                "public_scan_b": false,
+                "title": "Murder at the Ironmonger Market"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL9024523M",
+                "cover_i": 999481,
+                "ebook_access": "no_ebook",
+                "edition_count": 2,
+                "first_publish_year": 1999,
+                "has_fulltext": false,
+                "key": "/works/OL8656197W",
+                "language": [
+                    "ger"
+                ],
+                "public_scan_b": false,
+                "title": "Salman"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 1999,
+                "has_fulltext": false,
+                "key": "/works/OL386946W",
+                "language": [
+                    "spa"
+                ],
+                "public_scan_b": false,
+                "title": "Calor amarillo"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "cover_edition_key": "OL366024M",
+                "cover_i": 3733336,
+                "ebook_access": "borrowable",
+                "edition_count": 1,
+                "first_publish_year": 1999,
+                "has_fulltext": true,
+                "ia": [
+                    "yasarkemalonhisl0000yasa"
+                ],
+                "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+                "key": "/works/OL386968W",
+                "language": [
+                    "eng"
+                ],
+                "lending_edition_s": "OL366024M",
+                "lending_identifier_s": "yasarkemalonhisl0000yasa",
+                "public_scan_b": false,
+                "title": "Yas\u0327ar Kemal on his life and art"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 2,
+                "first_publish_year": 1999,
+                "has_fulltext": false,
+                "key": "/works/OL258311W",
+                "language": [
+                    "spa"
+                ],
+                "public_scan_b": false,
+                "title": "El Retorno Del Halcon"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL25447672M",
+                "cover_i": 7282850,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 1999,
+                "has_fulltext": false,
+                "key": "/works/OL16820687W",
+                "language": [
+                    "spa"
+                ],
+                "public_scan_b": false,
+                "title": "El Halc\u00f3n"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL9024499M",
+                "cover_i": 999459,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 1998,
+                "has_fulltext": false,
+                "key": "/works/OL8656190W",
+                "language": [
+                    "ger"
+                ],
+                "public_scan_b": false,
+                "title": "Zorn des Meeres"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL9185342M",
+                "cover_i": 2296942,
+                "ebook_access": "no_ebook",
+                "edition_count": 2,
+                "first_publish_year": 1998,
+                "has_fulltext": false,
+                "key": "/works/OL8656195W",
+                "language": [
+                    "tur"
+                ],
+                "public_scan_b": false,
+                "title": "Firat suyu kan akiyor baksana"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 1998,
+                "has_fulltext": false,
+                "key": "/works/OL33174154W",
+                "language": [
+                    "kur"
+                ],
+                "public_scan_b": false,
+                "title": "Siltan\u00ea F\u0131\u0302lan"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 2,
+                "first_publish_year": 1998,
+                "has_fulltext": false,
+                "key": "/works/OL23993596W",
+                "language": [
+                    "kur"
+                ],
+                "public_scan_b": false,
+                "title": "Dara hinar\u00ea"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "cover_edition_key": "OL9153046M",
+                "cover_i": 13105027,
+                "ebook_access": "printdisabled",
+                "edition_count": 2,
+                "first_publish_year": 1998,
+                "has_fulltext": true,
+                "ia": [
+                    "elhalcon0000yash_n3h4"
+                ],
+                "ia_collection_s": "internetarchivebooks;printdisabled",
+                "key": "/works/OL258310W",
+                "language": [
+                    "spa"
+                ],
+                "public_scan_b": false,
+                "title": "El Halcon"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 2,
+                "first_publish_year": 1998,
+                "has_fulltext": false,
+                "key": "/works/OL63270W",
+                "language": [
+                    "tur",
+                    "fre"
+                ],
+                "public_scan_b": false,
+                "title": "F\u0131rat suyu kan ak\u0131yor baksana"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "cover_edition_key": "OL525426M",
+                "cover_i": 3761697,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 1998,
+                "has_fulltext": false,
+                "key": "/works/OL386943W",
+                "language": [
+                    "tur"
+                ],
+                "public_scan_b": false,
+                "title": "Bir ada hikayesi"
+            },
+            {
+                "author_key": [
+                    "OL3245998A"
+                ],
+                "author_name": [
+                    "Kemal Yasar"
+                ],
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 1997,
+                "has_fulltext": false,
+                "key": "/works/OL9174932W",
+                "public_scan_b": false,
+                "title": "Al Gosym Seyreyle Salih"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL9024496M",
+                "cover_i": 999456,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 1997,
+                "has_fulltext": false,
+                "key": "/works/OL8656148W",
+                "language": [
+                    "ger"
+                ],
+                "public_scan_b": false,
+                "title": "Das Reich der Vierzig Augen. Memed III"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL9185074M",
+                "cover_i": 4928979,
+                "ebook_access": "no_ebook",
+                "edition_count": 1,
+                "first_publish_year": 1997,
+                "has_fulltext": false,
+                "key": "/works/OL8656174W",
+                "language": [
+                    "tur"
+                ],
+                "public_scan_b": false,
+                "title": "Sari defterdekiler"
+            },
+            {
+                "author_key": [
+                    "OL2919869A"
+                ],
+                "author_name": [
+                    "Yasar Kemal"
+                ],
+                "cover_edition_key": "OL12681786M",
+                "cover_i": 3178139,
+                "ebook_access": "borrowable",
+                "edition_count": 1,
+                "first_publish_year": 1997,
+                "has_fulltext": true,
+                "ia": [
+                    "utnr86dasliedder0000yasa"
+                ],
+                "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+                "key": "/works/OL8656185W",
+                "lending_edition_s": "OL12681786M",
+                "lending_identifier_s": "utnr86dasliedder0000yasa",
+                "public_scan_b": false,
+                "title": "UT, Nr.86, Das Lied der Tausend Stiere"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "cover_edition_key": "OL12681792M",
+                "cover_i": 3178145,
+                "ebook_access": "borrowable",
+                "edition_count": 1,
+                "first_publish_year": 1997,
+                "has_fulltext": true,
+                "ia": [
+                    "dieararatlegende0000yasa"
+                ],
+                "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+                "key": "/works/OL8656186W",
+                "language": [
+                    "ger"
+                ],
+                "lending_edition_s": "OL12681792M",
+                "lending_identifier_s": "dieararatlegende0000yasa",
+                "public_scan_b": false,
+                "title": "A\u011fr\u0131da\u011f\u0131 Efsanesi"
+            },
+            {
+                "author_key": [
+                    "OL14114A"
+                ],
+                "author_name": [
+                    "Ya\u015far Kemal"
+                ],
+                "cover_edition_key": "OL9772996M",
+                "cover_i": 2064053,
+                "ebook_access": "borrowable",
+                "edition_count": 1,
+                "first_publish_year": 1997,
+                "has_fulltext": true,
+                "ia": [
+                    "windfromplainwin0000yash"
+                ],
+                "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+                "key": "/works/OL29389486W",
+                "language": [
+                    "eng"
+                ],
+                "lending_edition_s": "OL9772996M",
+                "lending_identifier_s": "windfromplainwin0000yash",
+                "public_scan_b": false,
+                "title": "Wind from the Plain"
+            }
+        ]
+    }

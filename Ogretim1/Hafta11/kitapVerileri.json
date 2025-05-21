@@ -1,0 +1,56 @@
+{
+    "works": [
+        {
+            "key": "/works/OL23204W"
+        }
+    ],
+    "title": "Fareler ve insanlar",
+    "publishers": [
+        "Sel Yay\u0131nc\u0131l\u0131k"
+    ],
+    "publish_date": "2017",
+    "key": "/books/OL39492785M",
+    "type": {
+        "key": "/type/edition"
+    },
+    "identifiers": {},
+    "isbn_13": [
+        "9789755705859"
+    ],
+    "ocaid": "farelerveinsanla0000stei",
+    "isbn_10": [
+        "9755705856"
+    ],
+    "classifications": {},
+    "translation_of": "Of Mice and Men",
+    "translated_from": [
+        {
+            "key": "/languages/eng"
+        }
+    ],
+    "number_of_pages": 126,
+    "pagination": "126p.",
+    "publish_places": [
+        "Istanbul"
+    ],
+    "languages": [
+        {
+            "key": "/languages/tur"
+        }
+    ],
+    "copyright_date": "2012",
+    "physical_format": "paperback",
+    "covers": [
+        12902969
+    ],
+    "latest_revision": 3,
+    "revision": 3,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2022-09-16T10:10:28.902054"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2022-09-16T10:12:36.090242"
+    }
+}
